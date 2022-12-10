@@ -1,9 +1,9 @@
 # SoLU MoE layer
 
-See: 
-https://transformer-circuits.pub/2022/toy_model/index.html
-https://transformer-circuits.pub/2022/solu/index.html
-https://arxiv.org/abs/2101.03961
+For more info, see these papers:
+- https://transformer-circuits.pub/2022/toy_model/index.html
+- https://transformer-circuits.pub/2022/solu/index.html
+- https://arxiv.org/abs/2101.03961
 
 
 ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNoa%2FUlTqeEfafC.png?alt=media&token=405747dc-2681-49aa-9228-1a472bfa5365)
