@@ -1,0 +1,6 @@
+torch == 1.13.0
+numpy == 1.23.5
+einops == 0.6.0
+pandas == 1.5.2
+plotly == 5.11.0
+tqdm == 4.64.1
